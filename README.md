@@ -1,2 +1,2 @@
 # devopsjob.ru
-as project to denostrate DevOps skills
+as project to demostrate DevOps skills
