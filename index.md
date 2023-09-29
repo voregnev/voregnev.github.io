@@ -1,13 +1,15 @@
-# Andrey W Devopjob 
-## Objective:
+# Andrey W Devopjob
+
 Highly experienced IT professional with over 20 years of experience as a CIO and extensive work in executive management consulting. Transitioning to a DevOps career and seeking a challenging role as a DevOps Engineer to leverage my knowledge in implementing DevOps principles and driving continuous improvement in software development and delivery.
 
-## Education:
+## Education
+
 Yandex Courses
 DevOps Engineer Certification
  Jan - Mar 2023
 
-## Projects:
+## Projects
+
 1. Internet Online Shop
    - Developed the frontend using Node.js and the backend using Java.
    - Implemented GitLab pipelines for automated build, test, and deployment processes.
@@ -19,13 +21,14 @@ DevOps Engineer Certification
    - Integrated the bot with Kubernetes cluster to perform various management tasks.
    - Automated deployment and scaling of applications, monitoring, and logging using the bot.
 
-## Experience:
+## Experience
+
 CONSORT Consulting Group
 Executive Management Agency
 
 ### Chief Information Officer (CIO)
- **2005-2023**
 
+**2005-2023**
 
 - Led the IT department, overseeing all technology operations and strategies.
 - Managed a team of IT professionals and collaborated with other departments to align technology initiatives with business goals.
@@ -38,7 +41,8 @@ Executive Management Agency
 - Assisted in defining job descriptions, conducting interviews, and making hiring recommendations.
 - Advised clients on IT talent acquisition strategies and workforce planning.
 
-### Skills:
+### Skills
+
 - DevOps Principles and Methodologies
 - Infrastructure as Code (IaC)
 - Continuous Integration and Continuous Deployment (CI/CD)
@@ -52,14 +56,15 @@ Executive Management Agency
 - Strong Leadership and Team Management
 - Excellent Communication and Mentoring Skills
 
-### Certifications:
+### Certifications
+
 - DevOps Engineer Certification - Yandex Courses
 
+### Languages
 
-
-### Languages:
 - English (Fluent)
 - Russian (Native)
 
-### References:
+### References
+
 Available upon request
