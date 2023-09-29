@@ -1,4 +1,13 @@
-theme: minima
-title: Andrey Devopsjob
-description: September 2023
+title: Andrew Devopsjob Testum
+author:
+  name: Andrew W
+  email: cv@devopsjob.ru
 
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  It's description text for CV
+
+# Build settings
+
+theme: minima
