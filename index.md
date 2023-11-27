@@ -1,4 +1,4 @@
-# Andrey W Devopjob
+# Andrey W Devopsjob
 
 Highly experienced IT professional with over 20 years of experience as a CIO and extensive work in executive management consulting. Transitioning to a DevOps career and seeking a challenging role as a DevOps Engineer to leverage my knowledge in implementing DevOps principles and driving continuous improvement in software development and delivery.
 
